@@ -1,2 +1,2 @@
-# projeto_curso_visualg
-Projeto criado para esrever portugal na ferramenta VisualG
+# PROJETO CURSO ALGORITMO I
+### Projeto criado para esrever portugal na ferramenta VisualG
